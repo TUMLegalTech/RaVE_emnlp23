@@ -5,7 +5,7 @@
 ## Dataset Card for RaVE_emnlp23
 
 📃 From Dissonance to Insights: Dissecting Disagreements in Rationale Construction for Case Outcome Classification
-[https://huggingface.co/datasets/sxu/RaVE_emnlp23](https://arxiv.org/abs/2310.11878)
+[https://arxiv.org/abs/2310.11878]](https://arxiv.org/abs/2310.11878)
 
 Our dataset is available on Huggingface 🤗: 
 [https://huggingface.co/datasets/sxu/VECHR](https://huggingface.co/datasets/sxu/RaVE_emnlp23)
